@@ -3,12 +3,12 @@
 markdown language를 쓴다.
 나무위키, 위키피디아
 # 개발자 소개
-|제목|내용|소개|
+| 제목 | 내용 | 소개 |
 |-----|---|---|
-|이름|이준호|테스트|
-|기술|Frontend |html, css, jsm kotlin|
-|    |Backend |dinggo, flask|
-|    |Database |Oracle |
+| 이름 |이준호|테스트|
+| 기술 | Frontend | html, css, jsm kotlin |
+|     | Backend | dinggo, flask |
+|     | Database | Oracle |
 
 # 작품1
 ### 설계도
